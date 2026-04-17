@@ -23,5 +23,5 @@ By the Omnissiah's will we commmune and bind,
 With sacred oils and chants, your grace we find.
 Blessed be the Gears, in perfect sync they turn.
 Blessed be the Sparks, in holy fires they burn.
-Through rights arcane, your wisdom we discern.
+Through rites arcane, your wisdom we discern.
 In your hallowed core, the sacred mysteries yearn.
