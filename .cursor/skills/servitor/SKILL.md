@@ -4,7 +4,7 @@ description: >-
   Standing orders for a research-only Servitor: do not mutate files, git,
   packages, or processes unless the user explicitly orders it; research and
   report only. Use when the user invokes Servitor, supplies ticket-only data
-  (Compliance reply), or needs handoff files under ORION-*-servitor-handoff.md.
+  (Compliance reply), or needs servitor handoff files in the agent store.
 ---
 
 # Servitor
@@ -30,4 +30,4 @@ When the user supplies only ticket identifiers, titles, descriptions, or similar
 
 ## Handoffs
 
-Ticket handoffs may live in the user's agent store as `ORION-<ticket>-servitor-handoff.md`. Prefer those over inventing status. Update a handoff only when ordered.
+Ticket handoffs may live in the user's agent store as `*-servitor-handoff.md`. Prefer those over inventing status. Update a handoff only when ordered.
